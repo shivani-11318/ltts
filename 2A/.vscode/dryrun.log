@@ -1,0 +1,5 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/shivani/Desktop/c files/2A'
+gcc -I inc src/openFile.c src/readFile.c src/sort.c  main.c -o read_csv
+make: Leaving directory '/home/shivani/Desktop/c files/2A'
+ 
